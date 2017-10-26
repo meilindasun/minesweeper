@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=gridShown
+comment0.target=P1_Sun_Meilinda_MinesweeperAI(char[][])
+comment1.params=grid
+comment1.target=void\ printGrid(char[][])
+comment2.params=
+comment2.target=int\ numC()
+comment3.params=
+comment3.target=int\ percentRevealed()
+comment4.params=
+comment4.target=P1_Sun_Meilinda_MinesweeperAI.Move\ pickRandom()
+comment5.params=y\ x
+comment5.target=boolean\ eligible(int,\ int)
+comment6.params=y\ x
+comment6.target=double\ numMines(int,\ int)
+comment7.params=y\ x
+comment7.target=double\ score(int,\ int)
+comment8.params=
+comment8.target=P1_Sun_Meilinda_MinesweeperAI.Move\ rank()
+comment9.params=
+comment9.target=P1_Sun_Meilinda_MinesweeperAI.Move\ getNextMove()
+numComments=10

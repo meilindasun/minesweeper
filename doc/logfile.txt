@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/meilindasun/Desktop/gpdraw.jar:/Users/meilindasun/Desktop/everything/ap computer science/drawhouse/gpdraw.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/meilindasun/Desktop/everything/ap computer science/minesweeper
+-d
+/Users/meilindasun/Desktop/everything/ap computer science/minesweeper/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/meilindasun/Desktop/everything/ap computer science/minesweeper/P1_Sun_Meilinda_MinesweeperView.java
+<---- end of javadoc command ---->
+Loading source file /Users/meilindasun/Desktop/everything/ap computer science/minesweeper/P1_Sun_Meilinda_MinesweeperView.java...
+/Users/meilindasun/Desktop/everything/ap computer science/minesweeper/P1_Sun_Meilinda_MinesweeperView.java:28: error: ';' expected
+        JFrame window = new JFrame("SimpleDraw");
+              ^
+1 error
